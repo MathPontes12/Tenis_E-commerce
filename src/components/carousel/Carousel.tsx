@@ -13,7 +13,7 @@ const CarouselHome = () => {
     useEffect(() => {
         const intervalo = setInterval(() => {
             setImagemAtual(contador => (contador + 1) % 4)
-        }, 125000);
+        }, 5000);
         return () => clearInterval(intervalo)
 
     }, [])
