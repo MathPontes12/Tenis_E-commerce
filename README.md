@@ -20,12 +20,12 @@ Projeto React com uso de Typescript e gerenciamento de estado com context-API, u
 <br>
 
 <div align = "center">
-      <h2 align="center"> Weather App </h2>
+      <h2 align="center"> Tenis E-commerce </h2>
       <br>
       <br>
       <br>
-      <img src="https://github.com/user-attachments/assets/92330dd1-65a0-4e53-b07f-bbdee70330f1" width= "800"/>
+      <img src="https://github.com/user-attachments/assets/5eca8a92-9f1a-4da6-b3e4-1db8982c5236" width= "800"/>
 </div>
 
 ## Deploy on Vercel
-https://weather-app-omega-lime.vercel.app/
+https://tenis-e-commerce.vercel.app/
