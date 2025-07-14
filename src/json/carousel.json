@@ -1,0 +1,68 @@
+{
+    "productscard": [
+        {
+            "id": "1",
+            "nome": "tenis1",
+            "preco": 329,
+            "categorias": "Social",
+            "cor": "Azul"
+        },
+        {   
+            "id": "2",
+            "nome": "tenis2",
+            "preco": 329,
+            "categorias": "Corrida",
+            "cor": "Vermelho"
+        },
+        {   
+            "id": "3",
+            "nome": "tenis3",
+            "preco": 229,
+            "categorias": "Esporte",
+            "cor": "Verde"
+        },
+        {   
+            "id": "4",
+            "nome": "tenis4",
+            "preco": 129,
+            "categorias": "Esporte",
+            "cor": "Azul"
+        },
+        {   
+            "id": "5",
+            "nome": "tenis5",
+            "preco": 229,
+            "categorias": "Corrida",
+            "cor": "Estampado"
+        },
+        {   
+            "id": "6",
+            "nome": "tenis6",
+            "preco": 229,
+            "categorias": "Social",
+            "cor": "Azul"
+        },
+        {   
+            "id": "7",
+            "nome": "tenis7",
+            "preco": 129,
+            "categorias": "Social",
+            "cor": "Azul"
+        },
+        {   
+            "id": "8",
+            "nome": "tenis8",
+            "preco": 229,
+            "categorias": "Social",
+            "cor": "Verde"
+        },
+        {   
+            "id": "9",
+            "nome": "tenis9",
+            "preco": 229,
+            "categorias": "Social",
+            "cor": "Verde"
+        }
+    ]
+
+}

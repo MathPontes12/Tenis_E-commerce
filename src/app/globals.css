@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme inline {
+  --font-fontePrimaria: var(--font-bebas-neue);
+}
